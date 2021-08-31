@@ -6,7 +6,10 @@ in [google cloud platform](https://console.cloud.google.com/)
 - go api and services -> dashboard
 - go library tab -> search api(gmail api) -> enable api
 - go oauth consent screen -> fill scopes and test users
-- go credentials -> create api key and restrict and create oauth2.0 client ID -> and download
+- go credentials -> create api key and restrict and create oauth2.0 client ID -> and download and rename credentials.json
 
-
+Checks
+- rename credentials.json
+- application type when you create oauth client Id
+- create test users
 
